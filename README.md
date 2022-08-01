@@ -7,6 +7,7 @@
   
   
   This is the backend service for an e-commerce website
+  Video demonstration of some calls in insomnia: https://drive.google.com/file/d/12foPwsagCiJAu_S8YglM4Wu8kunGLMX3/view 
   ## Table of Contents
   * [Installation](#installation)
   * [License](#license)
